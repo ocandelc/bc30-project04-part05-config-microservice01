@@ -12,7 +12,7 @@
  * Bootcamp-30              17/08/2022        Mario Vásquez           Realizar la creación de un método nuevo.
  */
 
-package pe.com.nttdata;
+package pe.com.nttdata.bank;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -12,7 +12,7 @@
  * Bootcamp-30              17/08/2022        Mario Vásquez           Realizar la creación de un método nuevo.
  */
 
-package pe.com.nttdata;
+package pe.com.nttdata.bank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
